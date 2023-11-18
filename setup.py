@@ -7,7 +7,7 @@ setup(
         author_email="<bquast@gmail.com>",
         packages=find_packages(),
         install_requires=['numpy',],
-        keywords=['coefmod', 'modulo', 'coefficient modulo', 'polynomial'],
+        keywords=['homomorphic encryption', 'FHE', 'cryptography', 'coefmod', 'modulo', 'coefficient modulo', 'polynomial'],
         classifiers= [
             "Development Status :: 3 - Alpha",
             "Intended Audience :: Education",
